@@ -1,0 +1,5 @@
+Model,Theoretical_d_max,Experimental_d_max,Stability_exponent,Recommended_for
+Poincaré Disk,37.42994775023705,37.2,-2.0,Deep trees (d>19)
+Poincaré Half-Plane,37.42994775023705,37.5,-2.0,Scale-space tasks
+Lorentz,19.061547465398498,18.9,-1.0,Optimization stability
+Klein,19.061547465398498,18.6,-1.5,Projective geometry
